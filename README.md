@@ -13,10 +13,11 @@ We use the **HTML node** to extract specific HTML content from a webpage by refe
 
 ### **2. HTTP Request for Web Scraping**
 To retrieve webpage content, we use the **HTTP Request node** to send a `GET` request to a specified URL. This node allows us to obtain the full HTML content of the page.
+![http request](https://github.com/user-attachments/assets/0b8cfdfa-0430-4aba-a8b8-b982162a5daf)
 
 ### **3. Parsing HTML and Extracting Data**
 Once the webpage data is retrieved, we process it using the **HTML node** by specifying the **CSS selector** to extract desired elements.
-
+![html](https://github.com/user-attachments/assets/09481536-6986-41f4-bae9-48ed4ffeb10a)
 ---
 
 ## **Project Implementation**
